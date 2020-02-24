@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAutomovil", "WebAutomovil\WebAutomovil.csproj", "{71F1FE18-6A2B-4C51-8E08-C79187A2F4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{0F71A3B1-B1AC-498F-B630-2BE10406F33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F1FE18-6A2B-4C51-8E08-C79187A2F4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F1FE18-6A2B-4C51-8E08-C79187A2F4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F1FE18-6A2B-4C51-8E08-C79187A2F4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F1FE18-6A2B-4C51-8E08-C79187A2F4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F71A3B1-B1AC-498F-B630-2BE10406F33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F71A3B1-B1AC-498F-B630-2BE10406F33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F71A3B1-B1AC-498F-B630-2BE10406F33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F71A3B1-B1AC-498F-B630-2BE10406F33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
